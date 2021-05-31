@@ -1,0 +1,255 @@
+﻿id;Nom;Maison;type;nb_occ
+42;Harry Potter;Gryffondor;;15429
+79;Ron Weasley;Gryffondor;;5656
+44;Hermione Granger;Gryffondor;;4897
+3;Albus Dumbledore;Gryffondor;;2896
+39;Hagrid;Gryffondor;sorcier;1758
+84;Severus Snape;Serpentard;;1578
+94;Voldemort;Serpentard;;1393
+85;Sirius Black;Gryffondor;;970
+29;Fred Weasley;Gryffondor;;864
+32;George Weasley;Gryffondor;;739
+33;Ginny;Gryffondor;;709
+60;McGonagall;Gryffondor;;701
+65;Neville Longbottom;Gryffondor;;672
+91;Vernon Dursley;;moldu;452
+16;Cornelius Fudge;;sorcier;449
+183;Moody;;sorcier;436
+97;Young Percy;;sorcier;381
+21;Don;;moldu;364
+24;Dudley Dursley;;moldu;327
+106;Dobby;;creature;326
+143;Luna Lovegood;Serdaigle;;307
+49;Katie Bell;Gryffondor;;302
+118;Molly Weasley;Gryffondor;;298
+135;Barry Crouch;;sorcier;286
+13;Cho Chang;Serdaigle;;274
+9;Petunia Dursley;;moldu;256
+139;Cedric Diggory;Poufsouffle;;256
+27;Filch;;sorcier;235
+236;Ted Tonks;;sorcier;232
+194;Viktor Krum;;sorcier;229
+167;Fleur Delacour;;sorcier;229
+181;Ludo Bagman;;sorcier;220
+23;Draco Malfoy;Serpentard;;1381
+216;Kreacher;;creature;212
+92;Vincent Crabbe;Serpentard;;210
+162;Bellatrix Lestrange;Serpentard;;209
+37;Gregory Goyle;Serpentard;;208
+18;Dean Thomas;Gryffondor;;202
+70;Oliver Wood;Gryffondor;;197
+149;Remus Lupin;;sorcier;235
+150;Trelawney;Serdaigle;;194
+188;Rita Skeeter;;sorcier;179
+83;Seamus Finnegan;Gryffondor;;162
+81;Rowena Ravenclaw;Serdaigle;;156
+56;Pomfrey;;sorcier;150
+45;James Potter;Gryffondor;;147
+43;Helga Hufflepuff;Poufsouffle;;142
+176;Igor Karkaroff;;sorcier;141
+140;Crookshanks;;creature;140
+99;Arthur Weasley;Gryffondor;;139
+73;Peeves;;creature;138
+51;Lavender Brown;Gryffondor;;135
+17;Dai Llewellyn;;sorcier;133
+87;Stanley Shunpike;;sorcier;131
+115;Lucius Malfoy;Serpentard;;129
+195;Winky;;creature;127
+72;Parvati Patil;Gryffondor;;126
+76;Flitwick;serdaigle;;126
+38;Griphook;;creature;124
+6;Angelina Johnson;Gryffondor;;123
+120;Mundungus Fletcher;;sorcier;122
+148;Peter Pettigrew;Gryffondor;;109
+69;Ohlivander;Serdaigle;;108
+64;Nearly Headless;Gryffondor;;110
+12;Charlie Weasley;Gryffondor;;98
+30;Lee Jordan;Lee Jordan;;98
+78;Quirrell;;sorcier;96
+214;Kingsley Shacklebolt;;sorcier;95
+182;Maxime;;sorcier;93
+249;Greyback;;sorcier;87
+77;Sprout;Poufsouffle;;85
+185;Narcissa;Serpentard;;73
+226;Phineas Nigellus;Serpentard;;72
+36;Gray Lady;Serdaigle;;71
+28;Firenze;;creature;68
+155;Aberforth Dumbledore;;sorcier;67
+71;Pansy Parkinson;Serpentard;;65
+104;Colin;Gryffondor;;64
+261;McLaggen;Gryffondor;sorcier;63
+8;Marge;;moldu;62
+5;Ali Bashir;;sorcier;61
+246;Eileen Prince;;sorcier;61
+248;Gaunt;Serpentard;;60
+110;Fawkes;;creature;58
+184;Mungo;;sorcier;56
+63;Norris;;creature;55
+242;Muriel;;moldu;55
+263;Morfin;;moldu;55
+174;Grubbly Plank;;sorcier;53
+31;Gellert Grindelwald;;sorcier;51
+290;Xenophilius Lovegood;;sorcier;50
+7;Arabella Figg;;sorcier;49
+144;Rosmerta;;sorcier;49
+200;Doge;;sorcier;48
+137;Boggart Snape;;sorcier;45
+10;Binn;;sorcier;43
+48;Justin Finch;Poufsouffle;;43
+112;Gilderoy Lockhart;Serdaigle;;274
+201;Dolores Umbridge;Serpentard;;230
+88;Susan Bones;Poufsouffle;;42
+275;Ariana;;sorcier;42
+105;Dennis Creevey;Gryffondor;;39
+232;Regulus;Serpentard;;37
+163;Bertha Jorkins;;sorcier;36
+221;Marietta;Serdaigle;;35
+239;Zacharias Smith;Poufsouffle;;34
+59;Marcus Flint;Serpentard;;33
+157;Antonin Dolohov;;sorcier;32
+107;Ernie Macmillan;Poufsouffle;;31
+102;Caractacus Burke;;sorcier;29
+262;Merope;Serpentard;;29
+68;Nicolas Flamel;;sorcier;28
+156;Amos Diggory;;sorcier;28
+209;Healer Smethwyck;;sorcier;28
+40;Hannah Abbott;Poufsouffle;;27
+244;Carrow;;sorcier;27
+117;Marvolo;Serpentard;;26
+147;Montague;;sorcier;26
+19;Dedalus Diggle;;sorcier;25
+55;Malkin;;sorcier;24
+152;Roger Davies;Serdaigle;;24
+153;Walden Macnair;;sorcier;24
+223;Michael Corner;Serdaigle;;24
+245;Dirk Cresswell;;sorcier;24
+252;Hepzibah Smith;;sorcier;24
+256;Ignotus Peverell;;sorcier;24
+189;Roberts;;moldu;22
+80;Ronan;;creature;21
+187;Padma Patil;Serdaigle;;21
+11;Bloody Baron;Serpentard;;20
+108;Errol;;creature;20
+165;Broderick Bode;;sorcier;20
+190;Rookwood;;sorcier;20
+138;Cadogan;;sorcier;19
+265;Cole;Gryffondor;;19
+98;Armando Dippet;;sorcier;18
+219;Magorian;;creature;18
+235;Sturgis;;sorcier;18
+241;Amycus;;sorcier;18
+283;Kendra;;sorcier;18
+208;Griselda Marchbanks;;sorcier;17
+220;Marchbanks;;sorcier;17
+270;Rufus Scrimgeour;;sorcier;17
+286;Pius Thicknesse;;sorcier;17
+90;Trevor;;creature;16
+154;Cassius Warrington;Serpentard;;16
+210;Hestia Jones;;sorcier;16
+269;Romilda Vane;Gryffondor;;16
+75;Piers Polkiss;;moldu;15
+160;Avery;;sorcier;15
+89;Terry Boot;Serdaigle;;13
+130;Salazar Slytherin;Serpentard;;13
+228;Tofty;;sorcier;13
+257;Jimmy Peakes;Gryffondor;;13
+151;Prongs;;sorcier;12
+171;Gabrielle;;sorcier;12
+86;Took Slytherin;;sorcier;11
+126;Perkins;;sorcier;11
+259;Marcus Belby;Serdaigle;;11
+124;Penelope Clearwater;serdaigle;;10
+175;Hassan Mostafa;;sorcier;10
+1;Adrian Pucey;Serpentard;;9
+251;Harper;Serpentard;;9
+268;Ritchie Coote;Gryffondor;;9
+103;Celestina Warbeck;;sorcier;8
+121;Octavius Pepper;;sorcier;8
+123;Patrick Delaney;;sorcier;8
+132;Sinistra;;sorcier;8
+212;Jack Sloper;Gryffondor;;8
+289;Teddy Lupin;Poufsouffle;;8
+141;Derrick;Serpentard;;7
+158;Arnold Weasley;Gryffondor;;7
+197;Anthony Goldstein;Serdaigle;;7
+238;Emmeline Vance;;sorcier;7
+254;Horace Slughorn;Serpentard;sorcier;7
+169;Frank Bryce;;sorcier;6
+196;Alice Longbottom;;sorcier;6
+207;Grawpy;;creature;6
+222;Mary Dorkins;;moldu;6
+288;Burbage;;sorcier;6
+61;Miles Bletchley;Serpentard;;5
+166;Eloise Midgen;Gryffondor;;5
+198;Bob Ogden;;sorcier;5
+218;Puddifoot;;sorcier;5
+233;Rose;;sorcier;5
+250;Gwenog Jones;;sorcier;5
+41;Harold Dingle;Gryffondor;;4
+57;Malcolm;;moldu;4
+62;Miranda Goshawk;;sorcier;4
+66;Newt Scamander;Poufsouffle;;4
+109;Fawcett;Serdaigle;;4
+180;Lily Potter;Gryffondor;;17
+215;Knarls;;sorcier;4
+240;Dennis Bishop;;moldu;4
+243;Billy Stubbs;;moldu;4
+273;Albert;Poufsouffle;;4
+2;Agrippa;;sorcier;3
+22;Doris Crockford;;sorcier;3
+25;Enid Smeek;;sorcier;3
+122;Olive Hornby;;sorcier;3
+131;Scott;Serdaigle;;3
+136;Bilius;;sorcier;3
+161;Barry Ryan;;sorcier;3
+178;Kevin;;sorcier;3
+227;Pierre Bonaccord;;sorcier;3
+237;Tiberius Ogden;;sorcier;3
+253;Herbert Chorley;;sorcier;3
+258;Libatius;;sorcier;3
+281;Hugo;Serdaigle;;3
+4;Algie;;sorcier;2
+35;Gordon;;moldu;2
+74;Perenelle;;sorcier;2
+95;Warty Harris;;sorcier;2
+133;Veronica Smethley;;sorcier;2
+142;Ernie Prang;;sorcier;2
+170;Frank Longbottom;;sorcier;2
+191;Stain;;sorcier;2
+192;Stewart Ackerley;Serdaigle;;2
+202;Doris Purkiss;;sorcier;2
+224;Miriam Strout;;sorcier;2
+230;Rabastan;;sorcier;2
+264;Augusta Longbottom;;sorcier;2
+271;Rupert;;sorcier;2
+53;Lisa;Serdaigle;;1
+93;Vindictus Viridian;;sorcier;1
+113;Grant;Serdaigle;;1
+119;Mosag;;creature;1
+125;Pennyfeather;;sorcier;1
+127;Perry;;creature;1
+128;Peter Weasley;Gryffondor;;1
+145;Marjorie Dursley;;moldu;1
+164;Bozo;;sorcier;1
+172;Gilbert Wimple;;sorcier;1
+173;Graham;Serpentard;;1
+177;Jenkins;;sorcier;1
+179;Laura;Poufsouffle;;1
+186;Otto;;sorcier;1
+193;Summers;Poufsouffle;;1
+203;Eddie Carmichael;Serdaigle;;1
+204;Eric Munch;;sorcier;1
+205;Geoffrey Hooper;Gryffondor;;1
+211;Jack Russell;;creature;1
+225;Patricia Stimpson;;sorcier;1
+231;Ragnok;;creature;1
+247;Eric Whalley;;moldu;1
+255;Humphrey Belcher;;sorcier;1
+260;Martha;;moldu;1
+267;Ralph;;sorcier;1
+272;Savage;;sorcier;1
+274;Antioch;;sorcier;1
+276;Berry Braithwaite;;sorcier;1
+277;Bill Weasley;Gryffondor;;142
+278;Bowman Wright;;sorcier;1
+280;Hereward;;sorcier;1
