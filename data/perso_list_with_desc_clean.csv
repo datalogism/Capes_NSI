@@ -1,4 +1,4 @@
-﻿id;Nom;Maison;type;nb_occ
+﻿Id;Nom;Maison;type;nb_occ
 42;Harry Potter;Gryffondor;;15429
 79;Ron Weasley;Gryffondor;;5656
 44;Hermione Granger;Gryffondor;;4897
@@ -38,7 +38,7 @@
 37;Gregory Goyle;Serpentard;;208
 18;Dean Thomas;Gryffondor;;202
 70;Oliver Wood;Gryffondor;;197
-149;Remus Lupin;;sorcier;235
+149;Remus Lupin;Gryffondor;sorcier;235
 150;Trelawney;Serdaigle;;194
 188;Rita Skeeter;;sorcier;179
 83;Seamus Finnegan;Gryffondor;;162
