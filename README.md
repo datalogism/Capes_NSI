@@ -24,3 +24,24 @@ Deux vidéos sont notamment mis en liens dans l'activité :
 * Implémentation d'un graphe
 * Analyse du graphe
 * Utilisation de l'algorithme des plus proches voisins
+
+## Ressources utilisées :
+
+[1] Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre, Kim Nguyen (2020). Numérique
+et sciences informatiques - Terminale Ellipses, p189-218.
+
+[2] Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre, Kim Nguyen (2020). Numérique
+et sciences informatiques - 1ere Ellipses, p175-184.
+
+[3] John R. Ladd, Jessica Otis, Christopher N. Warren, and Scott Weingart (2020). Exploring
+and Analyzing Network Data with Python, Programming Historian, p175-184.
+
+[4] Programme de sciences numériques et technologie de seconde générale Officiel de l’Education
+Nationnale, spécial n° 1 du 22 janvier 2019
+
+[5] Programme de numérique et sciences informatiques de première générale Officiel de l’Education
+Nationnale, spécial n°1 du 22 janvier 2019
+
+[6] Programme de numérique et sciences informatiques de terminale générale Officiel de l’Education
+Nationnale, spécial n° 8 du 25 juillet 2019
+![image](https://user-images.githubusercontent.com/42188996/122788047-39c49f00-d2b6-11eb-955d-1c8a0a271d2b.png)
