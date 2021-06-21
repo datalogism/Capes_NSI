@@ -7,4 +7,20 @@ Le présent matériel contient :
 - Les données dans le répertoire /data
 - Les notebooks Jupyter à exploiter pour suivre cette activité
 - Des documents annexes liés à la construction du jeux de données
-- 
+- Les consignes de l'activité
+
+Vous trouverez ici les quelques visualisation de données évoquées dans l'introduction :
+- https://codepen.io/datalogist/pen/VmWXYx
+- https://codepen.io/datalogist/pen/QGMBXN
+- https://codepen.io/datalogist/pen/VmMbme
+
+Deux vidéos sont notamment mis en liens dans l'activité :
+- https://www.youtube.com/watch?v=gOiIQ0qGiCc
+- https://www.youtube.com/watch?v=ymRSxSY1nak&t=171s
+
+## Plan de l'activité :
+* Introduction
+* Analyse des personnages 
+* Implémentation d'un graphe
+* Analyse du graphe
+* Utilisation de l'algorithme des plus proches voisins
